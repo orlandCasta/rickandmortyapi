@@ -7,7 +7,7 @@ function App() {
     return (
         <BrowserRouter>
                 <Switch>
-                    <Route exact path="/" component={Home} />
+                    <Route exact path="/rickandmortyapi" component={Home} />
                     <Route component={NotFoundPage} />
                 </Switch>
         </BrowserRouter>
