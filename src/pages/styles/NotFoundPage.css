@@ -1,0 +1,11 @@
+.notFound{
+    background-image: radial-gradient(circle at 103.03% 50%, #6b3355 0, #5e264f 16.67%, #4d1646 33.33%, #38003b 50%, #240031 66.67%, #18002a 83.33%, #050027 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.notFound img{
+    width: 100vh;
+    height: 100vh;
+}

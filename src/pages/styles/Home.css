@@ -1,0 +1,30 @@
+  .background {
+    background-image: radial-gradient(circle at 103.03% 50%, #6b3355 0, #5e264f 16.67%, #4d1646 33.33%, #38003b 50%, #240031 66.67%, #18002a 83.33%, #050027 100%);
+  }
+
+  .background img{
+    height: 150px;
+    width: 450px;
+    }
+
+    .image-logo-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px 0px 20px 0;
+      border: none;
+      margin: 0px 0px 0px 0px;
+    }
+
+  .card-content {
+    padding: 20px 0px 10px 0px;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .contStyle {
+
+  }

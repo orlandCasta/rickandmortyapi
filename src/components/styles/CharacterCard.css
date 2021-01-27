@@ -1,0 +1,147 @@
+.Modal {
+    z-index: 100;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .9);
+}
+
+.containerPrimary {
+  color: aqua;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #212121;
+  border-radius: 10px;
+}
+.informationContainer h1 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+.informationContainer .informationStyle .informationStyleTopP{
+  padding-right: 9px;
+  color: azure;
+}
+
+.imageContainer img {
+  height: auto;
+  width: auto;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 0vh;
+  margin: vh;
+}
+
+.informationContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 30px;
+}
+
+.informationStyle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body
+{
+  background-color:#f2f2f2;
+  font-family: 'RobotoDraft', 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+*
+{
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h5
+{
+  margin:0px;
+  font-size:1.4em;
+  font-weight:700;
+}
+
+p
+{
+  font-size:12px;
+}
+
+.center
+{
+  height:350px;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* End Non-Essential  */
+
+.property-card
+{
+  cursor: pointer;
+  color: azure;
+  height:18em;
+  width:16em;
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-orient:vertical;
+  -webkit-box-direction:normal;
+  -ms-flex-direction:column;
+  flex-direction:column;
+  position:relative;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  border-radius:16px;
+  overflow:hidden;
+  -webkit-box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+  box-shadow:  1px 1px 27px #892cdc, -1px -1px 27px #ffffff;
+}
+
+/* Top Half of card, image. */
+
+.property-card img
+{
+  height:100%;
+  width:100%;
+  
+}
+
+/* Bottom Card Section */
+
+.property-description
+{
+  background-color:#52057b ;
+  height:3.5em;
+  width:16em;
+  position:absolute;
+  bottom:0em;
+  -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  padding: 0.5em 1em;
+  text-align:center;
+}
+
+/* Property Cards Hover States */
+
+.property-card:hover .property-description
+{
+  height:0em;
+  padding:0px 1em;
+}
