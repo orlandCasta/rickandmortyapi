@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/RickAndMortyAPI/static/css/main.3a1603bc.chunk.css",
-    "main.js": "/RickAndMortyAPI/static/js/main.aff15840.chunk.js",
-    "main.js.map": "/RickAndMortyAPI/static/js/main.aff15840.chunk.js.map",
-    "runtime-main.js": "/RickAndMortyAPI/static/js/runtime-main.82f246d3.js",
-    "runtime-main.js.map": "/RickAndMortyAPI/static/js/runtime-main.82f246d3.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/RickAndMortyAPI/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.07cc7b6d.chunk.js": "/RickAndMortyAPI/static/js/2.07cc7b6d.chunk.js",
-    "static/js/2.07cc7b6d.chunk.js.map": "/RickAndMortyAPI/static/js/2.07cc7b6d.chunk.js.map",
-    "index.html": "/RickAndMortyAPI/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/RickAndMortyAPI/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.3a1603bc.chunk.css.map": "/RickAndMortyAPI/static/css/main.3a1603bc.chunk.css.map",
-    "static/js/2.07cc7b6d.chunk.js.LICENSE.txt": "/RickAndMortyAPI/static/js/2.07cc7b6d.chunk.js.LICENSE.txt",
-    "static/media/404Error-rafiki.20b870df.svg": "/RickAndMortyAPI/static/media/404Error-rafiki.20b870df.svg",
-    "static/media/image.1c95a02a.png": "/RickAndMortyAPI/static/media/image.1c95a02a.png"
+    "main.css": "/rickandmortyapi/static/css/main.3a1603bc.chunk.css",
+    "main.js": "/rickandmortyapi/static/js/main.ef7e845b.chunk.js",
+    "main.js.map": "/rickandmortyapi/static/js/main.ef7e845b.chunk.js.map",
+    "runtime-main.js": "/rickandmortyapi/static/js/runtime-main.0e9dbdc9.js",
+    "runtime-main.js.map": "/rickandmortyapi/static/js/runtime-main.0e9dbdc9.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/rickandmortyapi/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.07cc7b6d.chunk.js": "/rickandmortyapi/static/js/2.07cc7b6d.chunk.js",
+    "static/js/2.07cc7b6d.chunk.js.map": "/rickandmortyapi/static/js/2.07cc7b6d.chunk.js.map",
+    "index.html": "/rickandmortyapi/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/rickandmortyapi/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.3a1603bc.chunk.css.map": "/rickandmortyapi/static/css/main.3a1603bc.chunk.css.map",
+    "static/js/2.07cc7b6d.chunk.js.LICENSE.txt": "/rickandmortyapi/static/js/2.07cc7b6d.chunk.js.LICENSE.txt",
+    "static/media/404Error-rafiki.20b870df.svg": "/rickandmortyapi/static/media/404Error-rafiki.20b870df.svg",
+    "static/media/image.1c95a02a.png": "/rickandmortyapi/static/media/image.1c95a02a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82f246d3.js",
+    "static/js/runtime-main.0e9dbdc9.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.07cc7b6d.chunk.js",
     "static/css/main.3a1603bc.chunk.css",
-    "static/js/main.aff15840.chunk.js"
+    "static/js/main.ef7e845b.chunk.js"
   ]
 }
