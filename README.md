@@ -9,6 +9,12 @@ In this practice, the information of all the characters is displayed in the form
 ```
 npm install
 ```
+
+## Start production mode 📽
+```
+npm run start
+```
+
 ## Deployment 📦
 
 To perform a deployment follow the steps below:
